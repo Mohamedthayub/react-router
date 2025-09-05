@@ -2,7 +2,7 @@ import React from "react";
 import Logo from "../images/logo.svg";
 const Navbar = () => {
     return (
-        <div className="Header">
+        <div className="navbar">
             <img src={Logo}></img>
             <ul>
                 <li>About</li>
